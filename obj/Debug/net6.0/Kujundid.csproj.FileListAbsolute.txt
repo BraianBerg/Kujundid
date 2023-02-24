@@ -1,0 +1,15 @@
+C:\Users\Braian\source\repos\Kujundid\bin\Debug\net6.0\Kujundid.exe
+C:\Users\Braian\source\repos\Kujundid\bin\Debug\net6.0\Kujundid.deps.json
+C:\Users\Braian\source\repos\Kujundid\bin\Debug\net6.0\Kujundid.runtimeconfig.json
+C:\Users\Braian\source\repos\Kujundid\bin\Debug\net6.0\Kujundid.dll
+C:\Users\Braian\source\repos\Kujundid\bin\Debug\net6.0\Kujundid.pdb
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.csproj.AssemblyReference.cache
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.AssemblyInfoInputs.cache
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.AssemblyInfo.cs
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.dll
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\refint\Kujundid.dll
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.pdb
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\Kujundid.genruntimeconfig.cache
+C:\Users\Braian\source\repos\Kujundid\obj\Debug\net6.0\ref\Kujundid.dll
